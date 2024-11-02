@@ -1,0 +1,9 @@
+## Interface: 30305
+## X-Compatible-With: 40000
+## Title: Currency
+## Notes: Displays all of the current toons currencies with just a mouseover
+## Author: Greenhorns on Vek'Nilash
+## Version: 3.0
+## SavedVariables: angle, miniMap
+
+Currency.lua
